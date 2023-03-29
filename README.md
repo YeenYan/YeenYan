@@ -22,5 +22,12 @@
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp;
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp;
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp;
-<img src="https://drive.google.com/file/d/17cHg688P_hA6rcbpiASLVVfYhXYq4BVI/preview" width="36" height="36" alt="Git" /></a> &nbsp;
-<img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp;
+<img src="https://github.com/YeenYan/YeenYan/blob/main/img/Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="VS Code" /></a> &nbsp;
+<img src="https://github.com/YeenYan/YeenYan/blob/main/img/Blender_logo_no_text.svg.png" width="36" height="36" alt="Blender" /></a> &nbsp;
+
+### Socials
+<a href="https://www.linkedin.com/in/mark-ian-reyes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://www.behance.net/MarkIanCreative" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/behance.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://www.facebook.com/profile.php?id=100070147221810" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://www.instagram.com/yeenyan07/" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;
+<a href="https://codepen.io/YeenYan" target="_blank" rel="noreferrer"><img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> &nbsp;
