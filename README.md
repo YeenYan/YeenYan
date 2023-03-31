@@ -17,6 +17,7 @@
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> &nbsp;
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> &nbsp;
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> &nbsp;
+{ Restful API } &nbsp;
 
 ### Software Tools
 <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp;
